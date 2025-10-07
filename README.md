@@ -1,4 +1,4 @@
-# Signal Classification Research Project
+# CNN + GLRT Signal Localization Research Project
 
 This repository contains the organized code for signal detection and Direction of Arrival(DoA) research, including CNN and GLRT analysis and adversarial attacks.
 
