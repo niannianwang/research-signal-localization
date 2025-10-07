@@ -1,0 +1,27 @@
+# python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+*.egg-info/
+
+# notebooks
+.ipynb_checkpoints/
+
+# data & models (keep these out of git; use /data-samples for tiny examples)
+models/
+data/
+*.h5
+*.npz
+*.mat
+*.keras
+
+# results (but keep summary folder)
+results/*
+!results/summary/
+!results/summary/**
+
+# macOS
+.DS_Store
+*/.DS_Store
